@@ -1,4 +1,4 @@
-Box office Rank,Title,Lifetime Gross,Year,Genre,Country,Director,Company,imdb rating,RT critic,RT general,Sequel (Y / N),Readaptation
+BoxOfficeRank,Title,LifetimeGross,Year,Genre,Country,Director,Company,imdbRating,RTCritic,RTGeneral,Sequel,Readaptation
 1,Avatar,2847246203,2009,"Action, Adventure, Fantasy",USA,James Cameron,20th Century Fox,7.8,,,no,no
 2,Avengers: Endgame,2797501328,2019,"Action, Adventure, Drama",USA,Russo Brothers,Marvel Studios,8.4,,,yes,no
 3,Titanic,2201647264,1997,"Drama, Romance",USA,James Cameron,"Paramount Pictures,
